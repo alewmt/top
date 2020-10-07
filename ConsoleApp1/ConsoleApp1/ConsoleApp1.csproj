@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\matching.interface\matching.interface\matching.interface.csproj" />
+    <ProjectReference Include="..\..\..\matching\matching\matching.csproj" />
+    <ProjectReference Include="..\..\..\trading.interface\trading.interface\trading.interface.csproj" />
+    <ProjectReference Include="..\..\..\trading\trading\trading.csproj" />
+  </ItemGroup>
+
+</Project>
