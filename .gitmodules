@@ -1,0 +1,12 @@
+[submodule "trading"]
+	path = trading
+	url = https://github.com/alewmt/trading.git
+[submodule "matching"]
+	path = matching
+	url = https://github.com/alewmt/matching.git
+[submodule "matching.interface"]
+	path = matching.interface
+	url = https://github.com/alewmt/matching.interface.git
+[submodule "trading.interface"]
+	path = trading.interface
+	url = https://github.com/alewmt/trading.interface.git
